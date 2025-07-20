@@ -6,7 +6,7 @@ I'm a seasoned engineer passionate about building scalable, resilient, and effic
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 -   **Frontend Development:** Crafting dynamic and responsive user interfaces with **React**.
 -   **Backend Development:** Building robust, high-performance server-side applications using **Node.js** and **MongoDB**.
@@ -16,9 +16,9 @@ I'm a seasoned engineer passionate about building scalable, resilient, and effic
 
 ---
 
-### 💻 My Tech Stack
+### 💻 Tech Arsenal
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,docker,kubernetes,bash,githubactions,argocd,aws,azure,digitalocean,linode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,docker,kubernetes,bash,argocd,aws,azure" />
 </p>
 
 
