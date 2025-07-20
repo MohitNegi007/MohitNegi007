@@ -28,9 +28,9 @@ I'm a seasoned engineer passionate about building scalable, resilient, and effic
 
 <!-- GitHub stats will be dynamically inserted here -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitNegi007E&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitNegi007&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 *Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to enable the stats.*
