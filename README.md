@@ -18,28 +18,13 @@ I'm a seasoned engineer passionate about building scalable, resilient, and effic
 
 ### 💻 My Tech Stack
 
-| Frontend | Backend | Database | DevOps & CI/CD | Containerization |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react" alt="React" width="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"/> | <img src="https://skillicons.dev/icons?i=githubactions,argocd" alt="GitHub Actions & ArgoCD" width="80"/> | <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker & Kubernetes" width="80"/> |
 
----
-
-### 📊 My GitHub Stats
-
-<!-- GitHub stats will be dynamically inserted here -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitNegi007E&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitNegi007&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
-*Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to enable the stats.*
 
 ---
 
 ### 📫 Let's Connect
 
--   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mohit-negi-364040238)
+-   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mohit-negi-364040238]
 -   **Portfolio/Website:** [your-website.com](https://mohitnegi.com)
 -   **Email:** [your-email@example.com](mailto:mohitnegi45801@gmail.com)
 
