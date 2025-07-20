@@ -8,8 +8,8 @@ I'm a seasoned engineer passionate about building scalable, resilient, and effic
 
 ### What I Do
 
--   **Frontend Development:** Crafting dynamic and responsive user interfaces with **React**.
--   **Backend Development:** Building robust, high-performance server-side applications using **Node.js** and **MongoDB**.
+-   **Frontend Development:** Crafting dynamic and responsive user interfaces with **React** & **Nextjs**.
+-   **Backend Development:** Building robust, high-performance server-side applications using **Node.js** , **Nest.js** and **MongoDB**.
 -   **DevOps & Automation:** Architecting and implementing CI/CD pipelines using **GitHub Actions** and **ArgoCD** for continuous integration and delivery.
 -   **Containerization & Orchestration:** Leveraging **Docker** and **Kubernetes (K8s)** to build, deploy, and manage containerized applications at scale.
 -   **Cloud-Native Solutions:** Designing and deploying microservices architectures on Kubernetes, ensuring high availability and fault tolerance.
@@ -26,7 +26,7 @@ I'm a seasoned engineer passionate about building scalable, resilient, and effic
 
 ### 📫 Let's Connect
 
--   **LinkedIn:**(https://www.linkedin.com/in/mohit-negi-364040238]
+-   **LinkedIn:**( https://www.linkedin.com/in/mohit-negi-364040238 )
 -   **Portfolio/Website:** (https://mohitnegi.com)
 -   **Email:** (:mohitnegi45801@gmail.com)
 
