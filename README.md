@@ -17,14 +17,16 @@ I'm a seasoned engineer passionate about building scalable, resilient, and effic
 ---
 
 ### 💻 My Tech Stack
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,docker,kubernetes,bash,githubactions,argocd,aws,azure,digitalocean,linode" />
+</p>
 
 
 ---
 
 ### 📫 Let's Connect
 
--   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mohit-negi-364040238]
--   **Portfolio/Website:** [your-website.com](https://mohitnegi.com)
--   **Email:** [your-email@example.com](mailto:mohitnegi45801@gmail.com)
+-   **LinkedIn:**(https://www.linkedin.com/in/mohit-negi-364040238]
+-   **Portfolio/Website:** (https://mohitnegi.com)
+-   **Email:** (:mohitnegi45801@gmail.com)
 
